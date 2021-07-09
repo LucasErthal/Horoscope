@@ -1,0 +1,82 @@
+{
+  "column1": [
+
+    {
+      "name": "Aquário",
+      "color": "#F2BCB7",
+      "icon": "aquario"
+    },
+
+    {
+      "name": "Touro",
+      "color": "#BBD864",
+      "icon": "touro"
+    },
+
+    {
+      "name": "Leão",
+      "color": "#B9BCDF",
+      "icon": "leao"
+    },
+
+    {
+      "name": "Escorpião",
+      "color": "#E0C4B3",
+      "icon": "escorpiao"
+    }
+  ],
+
+  "column2": [
+
+    {
+      "name": "Peixes",
+      "color": "#ABD3D5",
+      "icon": "peixes"
+    },
+
+    {
+      "name": "Gêmeos",
+      "color": "#C6E4D8",
+      "icon": "gemeos"
+    },
+
+    {
+      "name": "Virgem",
+      "color": "#FFE5BC",
+      "icon": "virgem"
+    },
+
+    {
+      "name": "Sagitário",
+      "color": "#A5CD92",
+      "icon": "sagitario"
+    }
+  ],
+
+  "column3": [
+
+    {
+      "name": "Áries",
+      "color": "#E6ECA4",
+      "icon": "aries"
+    },
+
+    {
+      "name": "Câncer",
+      "color": "#DCABCF",
+      "icon": "cancer"
+    },
+
+    {
+      "name": "Libra",
+      "color": "#F3AA9D",
+      "icon": "libra"
+    },
+
+    {
+      "name": "Capricórnio",
+      "color": "#B9CFE3",
+      "icon": "capricornio"
+    }
+  ]
+}
